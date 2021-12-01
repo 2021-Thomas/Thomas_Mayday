@@ -59,8 +59,25 @@
     5. The Cloud sends the irrigation command to the gateway.
     
     6. The irrigation command arrives at the Arduino which operates the irrigation system.
-    
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/74306759/144274291-64dba80d-39dc-46a7-9f58-3fd98311f5b6.png" width="600" alt="Image Error"/>
+</p>
+
+    🥕Data Acquisition: In this part, soil moisture sensors acquire soil moisture values in tomato fields. The sensor is connected to the Arduino by a wire. 
+    The soil moisture value is delivered as an integer type and 4 values are delivered as an array.
+    Data on the remaining amount of battery to operate the automatic irrigation system and the acquired crop data are collected on an Arduino connected to the sensor.
+    The sensor data collected by the Arduino is then transferred to the gateway through LoRa communication.
+    
+    🥕Central Control: This part is the main part of the project. The collected data from the Data Acquisition Unit arrives at the cloud from the gateway.
+    It stores the crop data in the database at the time that the data arrives and applies the devised algorithm.
+    The result of this algorithm, which is an irrigation command, is transmitted to the Arduino.
+    By using Node-RED in the cloud, the farmer can monitor the data through the Node-RED User Interface (UI) remotely.
+    
+    🥕Irrigation: This part receives and executes the irrigation command sent from the cloud.
+    In this part, the motor connected to the water pipe for irrigation is connected to the relay.
+    The relay connected to the Arduino receives the "turn the motor on and off" command sent from the LoRa module to execute automatic irrigation.
+ 
 🖥️*Environment Setting*
 
     ✔️macOS Big Sur version 11.4  
