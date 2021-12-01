@@ -99,8 +99,6 @@
 
     $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
     $ cd thomas
-    $ 
-
 
 👨‍👩‍👧‍👧 *Collaborator*
      
@@ -126,22 +124,18 @@
        -Purdue University
        -Major in CNIT
        -bryansupinski@gmail.com
-       -
     
     👨🏻‍🦱Damien Pham
        -Purdue University
        -Major in CNIT
        -minhduypham0210@gmail.com
-       -
     
     👨🏻‍💼Max Li
        -Purdue University
        -Major in CNIT
        -maxli32145@gmail.com
-       -
     
     🧔🏻Parker Alexander
        -Purdue University
        -Major in CNIT
        -carmelo15andonly@gmail.com 
-       -
