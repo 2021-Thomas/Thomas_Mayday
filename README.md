@@ -1,33 +1,36 @@
 # ⚡2021 Purdue AgIoT Project by TEAM_THOMAS⚡
 <hr>
 
-📑*Project Title*
+📑 *Project Title*
         
     Post Emergency Power Management for IoT based Precision Agriculture Irrigation System
     Using Cost Effective Algorithm and Serverless
 
-📅*Project Period*
+📅 *Project Period*
 
     10-10-2021(SUN) ~ 12-20-2021(MON)
 
-🧖🏻‍♀️*Problem Statement*
+🧖🏻‍♀️ *Problem Statement*
     
     The United States has more than 1200 tornadoes per year and almost the highest number of tornadoes in the world. 
+    
     Especially, these tornadoes incidences mostly occur in the plains region of the US.
     The tornado occurence area coincides with a large amount of cropland. When such a natural disaster occurs
     the power is cut off, causing a large-scale blackout, and this is not just a problem in cities. 
+    
     Recently, as smart farms are created by combining agriculture with IoT, most of the farm work is becoming automated.
     In this situation, if the electricity is cut off, the operation of automation technology of the smart farm will be damaged,
     and the crops will dry while waiting for someone to come and water them.
+    
     Therefore, a system that can respond flexibly during a disaster until power is restored is needed. 
 
-📖*Considerations*
+📖 *Considerations*
 
     🥕Software : Develop an algorithm that can use less power or use it more efficiently.
     
     🥕Hardware : Change the system configuration so that the system itself can reduce power consumption.
 
-💡*Novelty*
+💡 *Novelty*
 
     1. Develop the existing simple algorithm's concept!
        => We researched about the existing smart farm system that irrigatie automatically using Fuzzy and Genetic Algorithms.
@@ -43,7 +46,7 @@
       But we want to have more novelty in power saving. So, we used serverless and FaaS which is good way to reduce idle power consumption in our system,
       that needs to reduce the time inverval between sending data to the server.
 
-🏛*System Overview*
+🏛 *System Overview*
  <p align="center">
    <img src="https://user-images.githubusercontent.com/74306759/144271084-069a0741-ccf7-49ea-bb41-d434c3f91bc3.png" alt="Image Error"/>
 </p>
@@ -78,7 +81,7 @@
     In this part, the motor connected to the water pipe for irrigation is connected to the relay.
     The relay connected to the Arduino receives the "turn the motor on and off" command sent from the LoRa module to execute automatic irrigation.
  
-🖥️*Environment Setting*
+🖥️ *Environment Setting*
 
     ✔️macOS Big Sur version 11.4  
     
@@ -92,14 +95,14 @@
     
     ✔️Soil Moisture Sensor version 1.2
   
-📤*Installation*
+📤 *Installation*
 
     $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
     $ cd thomas
     $ 
 
 
-👨‍👩‍👧‍👧*Collaborator*
+👨‍👩‍👧‍👧 *Collaborator*
      
     👩‍💻Yujung Gil
        -Dongguk Univeristy
