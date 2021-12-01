@@ -4,7 +4,7 @@
 📑 *Project Title*
         
     Post Emergency Power Management for IoT based Precision Agriculture Irrigation System
-    Using Cost Effective Algorithm and Serverless
+    Using Cost-Effective Algorithm and Serverless
 
 📅 *Project Period*
 
