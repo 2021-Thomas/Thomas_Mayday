@@ -124,6 +124,7 @@
        -Purdue University
        -Major in CNIT
        -bryansupinski@gmail.com
+       -https://github.com/dplok1
     
     👨🏻‍🦱Damien Pham
        -Purdue University
