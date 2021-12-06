@@ -136,10 +136,12 @@
        -Purdue University
        -Major in CNIT
        -maxli32145@gmail.com
+       -https://github.com/Tybolis
     
     🧔🏻Parker Alexander
        -Purdue University
        -Major in CNIT
-       -carmelo15andonly@gmail.com 
+       -carmelo15andonly@gmail.com
+       -https://github.com/alexandp1995
 
 [1] Open Source WiFi, Linux Appliance, Dragino. Accessed on: December 02, 2021. [Online]. Available: [Dragino](https://dragino.com/)
