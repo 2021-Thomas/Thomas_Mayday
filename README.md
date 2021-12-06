@@ -130,6 +130,7 @@
        -Purdue University
        -Major in CNIT
        -minhduypham0210@gmail.com
+       -https://github.com/damien7749
     
     👨🏻‍💼Max Li
        -Purdue University
@@ -140,3 +141,5 @@
        -Purdue University
        -Major in CNIT
        -carmelo15andonly@gmail.com 
+
+[1] Open Source WiFi, Linux Appliance, Dragino. Accessed on: December 02, 2021. [Online]. Available: [Dragino](https://dragino.com/)
