@@ -48,7 +48,7 @@
 
 🏛 *System Overview*
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/74306759/144271084-069a0741-ccf7-49ea-bb41-d434c3f91bc3.png" alt="Image Error"/>
+   <img src="https://user-images.githubusercontent.com/46514182/146694716-9e18e89e-0356-4409-93ea-1ebbf573cd73.png" alt="Image Error"/>
 </p>
     
     1. Tomatoes were planted in 4 areas, each with a soil moisture sensor and irrigation tube installed.
