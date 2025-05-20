@@ -117,7 +117,7 @@
     👰Jiho Park
        -Dongguk University
        -Major in Computer Science Engineering
-       -2017112091@dgu.ac.kr
+       -jiho8345@dgu.ac.kr
        -https://github.com/zihos
        
     👩‍🚀Bryan Supinski
